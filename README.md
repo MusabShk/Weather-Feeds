@@ -19,5 +19,5 @@ Also get a 4 day weather forecast for the city you search
 ### Mobile responsive
 
 <p align="center">
-  <img src="app-screenshots/1.gif" />
+  <img src="app-screenshots/01.gif" width="350" height="600" />
 </p>
