@@ -1,6 +1,6 @@
 # WeatherFeeds
 
-Webapp build using Reactjs and material ui (mui) and openweathermap api </br>
+Webapp build using Reactjs, material ui (mui) and openweathermap api </br>
 A very convenient and user friendly webapp.
 Search your favourite city and get to know the current weather condition, temperature, windspeed, Humidity and much more
 
